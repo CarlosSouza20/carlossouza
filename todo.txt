@@ -1,2 +1,2 @@
 Implementar controle de opções
-Implementar caracteres de texto
+
