@@ -1,0 +1,6 @@
+c:\users\manager\documents\visual studio 2015\Projects\exercicioarnaldo\exercicioarnaldo\bin\Debug\exercicioarnaldo.exe.config
+c:\users\manager\documents\visual studio 2015\Projects\exercicioarnaldo\exercicioarnaldo\bin\Debug\exercicioarnaldo.exe
+c:\users\manager\documents\visual studio 2015\Projects\exercicioarnaldo\exercicioarnaldo\bin\Debug\exercicioarnaldo.pdb
+c:\users\manager\documents\visual studio 2015\Projects\exercicioarnaldo\exercicioarnaldo\obj\Debug\exercicioarnaldo.csprojResolveAssemblyReference.cache
+c:\users\manager\documents\visual studio 2015\Projects\exercicioarnaldo\exercicioarnaldo\obj\Debug\exercicioarnaldo.exe
+c:\users\manager\documents\visual studio 2015\Projects\exercicioarnaldo\exercicioarnaldo\obj\Debug\exercicioarnaldo.pdb
