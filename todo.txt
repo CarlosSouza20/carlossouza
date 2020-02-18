@@ -1,0 +1,2 @@
+Implementar controle de opções
+emplementar caracteres de texto
